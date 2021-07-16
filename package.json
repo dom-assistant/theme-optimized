@@ -1,6 +1,6 @@
 {
-  "name": "theme-optimized",
-  "version": "1.0.0",
+  "name": "@gladysassistant/theme-optimized",
+  "version": "1.0.1",
   "description": "Theme optimized",
   "main": "index.js",
   "scripts": {
