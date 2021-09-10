@@ -15667,7 +15667,6 @@ a.tag-addon:hover {
   background: #467fcf;
   content: "";
   height: 2px;
-  pointer-events: none;
 }
 
 .custom-range::-webkit-slider-thumb {
@@ -16781,8 +16780,7 @@ svg {
 @font-face {
   font-family: "feather";
   src: url("./fonts/feather/feather-webfont.woff") format("woff"),
-    url("./fonts/feather/feather-webfont.ttf")
-      format("truetype");
+    url("./fonts/feather/feather-webfont.ttf") format("truetype");
 }
 
 .fe {
